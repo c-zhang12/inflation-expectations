@@ -17,11 +17,13 @@ Expected inflation:
 - there is a low at around 2002, where the expected is about 1%
 - the expected inflation is pretty consistent besides a few peaks at around 1990 and 2008.
 - after 2020 the expected inflation seems to be increasing with 2 spikes at 2022 and 2025
+
 Actual Inflation:
 - there is a major peak of inflation at around 1979, minor peaks at 1990, 2022
 - there seems to be a negative trend from 1990 to 1999
 - there is a major dip at around 2009
 - the inflation was quite stable around 1 until after 2019 where is spiked up to about 9% but later dropped to around 3%
+
 Both:
 - the expected value for inflation tends to understate the change in actual inflation, causing the expected trendline to be a lot more smoother than the actual.
 - in general, the overall trends for both expected and actual are the same
